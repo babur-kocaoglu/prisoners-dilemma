@@ -1,1 +1,1 @@
-Prisoners-dilemma
+Computational optimization of prisoners-dilemma
